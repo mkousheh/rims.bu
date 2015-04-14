@@ -1,0 +1,77 @@
+# Maven
+log/
+target/
+
+# Java
+*.class
+bin/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# CVS
+.cvsignore
+
+# Eclipse
+.checkstyle
+.classpath
+.project
+.springBeans
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+
+# Mac specific
+.DS_Store
+
+# Ignore copies
+*~
+/target
+/overlays/
+
+# Ignore BU Rice
+index.jsp
+portal.jsp
+favicon.ico
+core/
+kcb/
+ken/
+kew/
+kim/
+kr/
+krad/
+krms/
+ksb/
+themes/
+plugins/
+src/main/webapp/rice-portal/css/
+src/main/webapp/rice-portal/images/
+src/main/webapp/rice-portal/jsp/
+src/main/webapp/rice-portal/scripts/portal.initialize.js
+src/main/webapp/WEB-INF/classes/
+src/main/webapp/WEB-INF/dwr-kew.xml
+src/main/webapp/WEB-INF/dwr-kns.xml
+src/main/webapp/WEB-INF/krad-base-servlet.xml
+src/main/webapp/WEB-INF/krad-servlet.xml
+src/main/webapp/WEB-INF/kradguest-servlet.xml
+src/main/webapp/WEB-INF/login-servlet.xml
+src/main/webapp/WEB-INF/jsp/dummy_login.jsp
+src/main/webapp/WEB-INF/jsp/moduleLocked.jsp
+src/main/webapp/WEB-INF/jsp/recurseCheckTabHighlight.jsp
+src/main/webapp/WEB-INF/jsp/recurseRowDisplay.jsp
+src/main/webapp/WEB-INF/jsp/recurseTreeNode.jsp
+src/main/webapp/WEB-INF/tags/kew/
+src/main/webapp/WEB-INF/tags/kim/
+src/main/webapp/WEB-INF/tags/kr/
+src/main/webapp/WEB-INF/tags/krad/
+src/main/webapp/WEB-INF/tags/rice-portal/
+src/main/webapp/WEB-INF/tld
+src/main/webapp/META-INF
+src/main/webapp/META-INF/MANIFEST.MF
+favicon.ico
